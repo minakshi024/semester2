@@ -10,7 +10,8 @@
 // console.log(isFollow);
 fullname="minakshi";
 FULLNAME="mayank";
-console.log(fullname);
+
+console.log(fullnsme);
 console.log(FULLNAME);
 
 
