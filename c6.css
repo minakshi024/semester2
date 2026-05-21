@@ -1,0 +1,19 @@
+#head   {   /*{ # is symbol of heading */
+    color:blue;
+    font: bolder;
+}
+#heading   {   
+    color:red;
+    
+}
+body{
+    background-color: pink;
+}
+button{
+color:aqua;
+}
+
+/* this is for class (.class1) */
+.class1{
+    background-color: chocolate;
+}
